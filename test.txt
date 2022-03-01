@@ -1,1 +1,2 @@
 jakiś plik testowy w celu przećwiczenia obsługi repozytorium
+zmiana w pierwszym pliku
